@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "import PATH=$PATH:/action"
+export PATH=$PATH:/action
